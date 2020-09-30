@@ -9,10 +9,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
 import android.view.Menu;
 import android.view.MenuInflater;
-<<<<<<< HEAD
 import android.view.MenuItem;
-=======
->>>>>>> 394b7d1881928f41adc15450cac7efe811dc73e1
 import android.view.View;
 import android.widget.AdapterView;
 import android.widget.ListView;
@@ -90,7 +87,6 @@ public class MainActivity extends AppCompatActivity {
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
         Intent infoIntent = new Intent(this,InfoActivity.class);
-//      int id = item.getItemId();
         startActivity(infoIntent);
         return super.onOptionsItemSelected(item);
     }
