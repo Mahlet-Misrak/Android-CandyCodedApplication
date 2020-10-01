@@ -11,7 +11,7 @@
   <component name="ChangeListManager">
     <list default="true" id="758f6e25-c4f9-4514-ab25-4bc68c7e02b0" name="Default Changelist" comment="Merge branch 'master' of github.com:Mahlet-Misrak/Android-CandyCodedApplication&#10;&#10;# Conflicts:&#10;#&#9;app/src/main/java/com/pluralsight/candycoded/MainActivity.java">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/DetailActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/DetailActivity.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
